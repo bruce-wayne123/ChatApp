@@ -1,0 +1,37 @@
+.App {
+  font-family: "Schibsted Grotesk", sans-serif;
+  text-align: center;
+}
+
+.modal {
+  display: flex;
+  row-gap: 10px;
+  width: 200px;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  font-family: "Schibsted Grotesk", sans-serif;
+}
+.contactButton {
+  height: 50px;
+  justify-self: center;
+  background-color: lightpink;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+}
+.contactButton:hover {
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  row-gap: 15px;
+  flex-direction: column;
+  width: 100px;
+}
+.close {
+  justify-content: end;
+  text-align: end;
+}

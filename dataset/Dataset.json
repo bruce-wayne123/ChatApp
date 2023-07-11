@@ -1,0 +1,122 @@
+[
+  {
+    "user": "Anisha",
+    "pic": "https://randomuser.me/api/portraits/women/57.jpg",
+    "message": "Coffee sunday morning?",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "messageTo": "Anisha",
+    "user": "Self",
+    "message": "Yes Sure.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "Anisha",
+    "pic": "https://randomuser.me/api/portraits/women/57.jpg",
+    "message": "Should we go to Cafe paradise? They are having a christmas offer :)",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "messageTo": "Anisha",
+    "user": "Self",
+    "message": "Ok Cool. Will reach by 10 then.See you.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "Erik",
+    "pic": "https://randomuser.me/api/portraits/men/68.jpg",
+    "message": "Can you please recieve my parcel.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "messageTo": "Erik",
+    "user": "Self",
+    "message": "Yes Sure. Give me the tracking ID",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "Erik",
+    "pic": "https://randomuser.me/api/portraits/men/68.jpg",
+    "message": "DHL Tracking number - E445MY1100",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "messageTo": "Erik",
+    "user": "Self",
+    "message": "Ok done",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "Erik",
+    "pic": "https://randomuser.me/api/portraits/men/68.jpg",
+    "message": "Thanks Man..",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "messageTo": "John",
+    "user": "Self",
+    "message": "Hi John.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "John",
+    "pic": "https://randomuser.me/api/portraits/men/59.jpg",
+    "message": "Hey...",
+    "lastContactTime": "09:20AM"
+  },
+  {
+    "messageTo": "John",
+    "user": "Self",
+    "message": "Do you have additional pair of jersey.I need it for football match this Sunday.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "John",
+    "pic": "https://randomuser.me/api/portraits/men/59.jpg",
+    "message": "Yes. I have. I can give it to you.",
+    "lastContactTime": "09:20AM"
+  },
+  {
+    "messageTo": "John",
+    "user": "Self",
+    "message": "Thanks man.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "John",
+    "pic": "https://randomuser.me/api/portraits/men/59.jpg",
+    "message": "All the best for the match",
+    "lastContactTime": "09:20AM"
+  },
+  {
+    "user": "Olivia",
+    "pic": "https://randomuser.me/api/portraits/women/10.jpg",
+    "message": "Happy Birthday 🎂",
+    "lastContactTime": "09:20AM"
+  },
+  {
+    "messageTo": "Olivia",
+    "user": "Self",
+    "message": "Thanks Olivia 😇",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "messageTo": "Olivia",
+    "user": "Self",
+    "message": "Me and Anisha are going to Cafe paradise this Sunday.You can join us for the birthday treat.",
+    "lastContactTime": "2023-07-06T13:25:00:000Z"
+  },
+  {
+    "user": "Olivia",
+    "pic": "https://randomuser.me/api/portraits/women/10.jpg",
+    "message": "Yup. Sure. I will be there.",
+    "lastContactTime": "09:20AM"
+  },
+  {
+    "user": "KFC ✅",
+    "pic": "https://www.shutterstock.com/image-vector/kfc-logo-icon-art-design-260nw-2269871217.jpg",
+    "message": "Buy Chicken zingers bucket & get a coke free!",
+    "lastContactTime": "09:20AM"
+  }
+]

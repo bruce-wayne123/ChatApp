@@ -1,0 +1,132 @@
+#mainContainer {
+  display: flex;
+  column-gap: 15px;
+}
+
+#chatListContainer {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  font-family: "Raleway", sans-serif;
+}
+
+#chatListHeaderContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.chatListIcon {
+  height: 25px;
+  width: 25px;
+}
+
+.chatListIcon:hover {
+  cursor: pointer;
+}
+
+#searchContainer {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  margin: 10px;
+  padding: 15px;
+  background-color: lightgray;
+  border: 1px solid lightgray;
+}
+
+#searchBox {
+  font-size: 15px;
+  width: 300px;
+
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+#chatBox {
+  font-size: 15px;
+  width: 1450px;
+  border: none;
+  outline: none;
+}
+
+#conversationContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 1200px;
+  margin: 5px;
+  border: 1px solid lightgray;
+}
+
+#chatHeaderContainer {
+  display: flex;
+  column-gap: 15px;
+  border: 1px solid lightgray;
+  align-items: center;
+  padding: 10px;
+  width: 1200px;
+  height: 70px;
+  font-family: "Raleway", sans-serif;
+}
+
+#convoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  padding: 10px;
+  height: 700px;
+  width: 1200px;
+  font-family: "Raleway", sans-serif;
+}
+
+#typeContainer {
+  display: flex;
+  border: 1px solid lightgray;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 50px;
+  padding: 10px;
+  width: 1200px;
+  background: white;
+  font-family: "Raleway", sans-serif;
+  padding: 10px;
+}
+
+#typeContainer:hover {
+  border: 1px solid tomato;
+}
+
+#sendButton {
+  width: 100px;
+  justify-self: flex-end;
+}
+
+#attachButton {
+  margin: 15px;
+}
+
+.chatImage {
+  border: 1px solid lightgray;
+  border-radius: 30px;
+  height: 60px;
+  width: 60px;
+}
+
+#chatCardContainer:hover {
+  cursor: pointer;
+}
+
+.modal {
+  background-color: tomato;
+}
+
+#contactOptionsContainer {
+  display: flex;
+  margin-left: 950px;
+  column-gap: 30px;
+}
